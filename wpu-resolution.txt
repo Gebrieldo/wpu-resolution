@@ -1,6 +1,6 @@
 WPU RESULUION
--belajar membuat desain tampilan html dan css
 -saya pengen konsisten belajar struktur awal sebuah halaman web 
 -saya pengen membuat desain interface sederhana
 -saya pengen mencoba to do list belajar  
 -saya pengen belajar html terlebih dahulu
+-saya pengen membuat font  desain web minimalis
